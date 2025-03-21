@@ -2,9 +2,7 @@
 
 * Krzysztof Molenda
 
-Wersja przeglądarkowa JupyterLab. 
-
-Zbudowana na bazie: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Wersja przeglądarkowa JupyterLab, zbudowana na bazie: [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
 
 ## Wymagania
 
