@@ -46,3 +46,12 @@ bqplot
 # KM
 # JupyterLab: open a file passed via a URL parameter
 jupyterlab-open-url-parameter
+
+# https://github.com/deathbeds/ipydrawio
+jupyterlab-drawio
+
+# https://github.com/jupyter-book/jupyterlab-myst
+jupyterlab-myst
+
+# widget enabling interactive graph visualization with cytoscape.js: https://github.com/cytoscape/ipycytoscape
+jupyter-cytoscape
