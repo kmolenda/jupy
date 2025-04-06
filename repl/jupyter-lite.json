@@ -4,7 +4,7 @@
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
-        "@jupyterlite/javascript-kernel-extension",
+        "jupyterlite-javascript-kernel",
         "jupyterlab-tour"
       ]
     }
