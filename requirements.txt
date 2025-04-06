@@ -14,7 +14,7 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlab-language-pack-pl-PL
 
 # P5 kernel (optional)
-jupyterlite-p5-kernel==0.1.0
+# jupyterlite-p5-kernel==0.1.0
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
